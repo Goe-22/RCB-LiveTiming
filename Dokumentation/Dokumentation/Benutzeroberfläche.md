@@ -105,3 +105,97 @@ Offroad
 
 Normalbetrieb:
 
+Decoder verbunden
+
+Fehler:
+
+Decoder nicht erreichbar
+
+ ---
+
+## Homepage
+
+Normalbetrieb:
+
+Live Übertragung aktiv
+
+Fehler:
+
+Keine Verbindung zur Homepage
+
+---
+
+# 6. Menüstruktur
+
+## Datei
+
+- Neues Training starten
+- Training speichern
+- Training beenden
+- Programm beenden
+
+---
+
+## Fahrer
+
+- Fahrer verwalten
+- Transponder verwalten
+- Klassen verwalten
+
+---
+
+## Einstellungen
+
+- Decoder Einstellungen
+- Streckeneinstellungen
+- Homepage Einstellungen
+- Sprachausgabe
+- Anzeige
+
+---
+
+## Hilfe
+
+- Informationen zum Programm
+- Versionsnummer
+
+---
+
+# 7. Zweite Anzeige (optional)
+
+Für einen zusätzlichen Monitor kann eine vereinfachte Anzeige verwendet werden.
+
+Beispiel:
+
+RCB LiveTiming
+
+Christian Göhler
+
+Klasse:
+TT-02
+
+Letzte Runde:
+
+23.123 Sekunden
+
+Beste Runde:
+
+22.987 Sekunden
+
+---
+
+# 8. Bedienphilosophie
+
+Das Programm ist speziell für den Trainingsbetrieb entwickelt.
+
+Ablauf:
+
+1. Laptop starten
+2. RCB LiveTiming starten
+3. Decoder verbindet automatisch
+4. Fahrer fahren auf die Strecke
+5. Runden werden automatisch erkannt
+6. Rundenzeiten werden angesagt
+7. Live-Daten werden auf die Homepage übertragen
+
+Während des Trainings sind keine zusätzlichen Eingaben notwendig.
