@@ -169,3 +169,11 @@ Status: Geplant
 ⬜ Weitere Decoder
 
 ⬜ Plugin-System
+
+---
+
+# Projektregel
+
+Neue Funktionen werden erst eingebaut, wenn die bestehenden Funktionen vollständig getestet und dokumentiert sind.
+
+Stabilität und einfache Bedienung haben immer Vorrang vor neuen Funktionen.
